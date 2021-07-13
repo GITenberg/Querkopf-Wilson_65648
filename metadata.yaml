@@ -1,0 +1,35 @@
+_repo: Querkopf-Wilson_65648
+_version: 0.0.1
+alternative_title: Pudd'nhead Wilson. German
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65648'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Infants switched at birth -- Fiction'
+- !lcsh 'Passing (Identity) -- Fiction'
+- !lcsh 'Legal stories'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- GITenberg
+title: Querkopf Wilson
+url: http://www.gutenberg.org/ebooks/65648
